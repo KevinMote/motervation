@@ -2,7 +2,7 @@
 title: Welcome to Motervation
 ---
 
-| Not sure how much text i can put here | ![Alt text](/motervation/images/old_man2_sq.jpg) |
+| Not sure how much text i can put here | ![Alt text](/images/old_man2_sq.jpg) |
 |-----------|-------------------------------|
 | More text here that explains the image. |  
 
